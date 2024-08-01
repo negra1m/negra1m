@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Front End Developer<br>👯 Looking for some open source collaborations<br>🐱‍👤 Angular | Vue |  React<br>🌱 I’m currently improving my skills on NextJS<br>💬 Ask me about Software in general I do love coding<br>📫 How to reach me: [![My Website](https://fewcompany.com/home)
+🔭 Front End Developer<br>👯 Looking for some open source collaborations<br>🐱‍👤 Angular | Vue |  React<br>🌱 I’m currently improving my skills on NextJS<br>💬 Ask me about Software in general I do love coding<br>📫 How to reach me: [[My Website](https://fewcompany.com/home)
 
 
 ## 🌐 Socials:
