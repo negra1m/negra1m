@@ -1,5 +1,5 @@
 # 🤓 About Me:
-🔭 Front End Developer<br>👯 Looking for some open source collaborations<br>🐱‍👤 Angular | Vue |  React<br>🌱 I’m currently researching<br>💬 Ask me about Software in general I do love coding<br>📫 How to reach me: [My Website](https://fewcompany.com/)
+🔭 Full Stack Developer | Founder<br>👯 Looking for some open source collaborations<br>🐱‍👤 Angular | Vue |  React<br>🌱 I’m currently researching<br>💬 Ask me about Software in general I do love coding<br>📫 How to reach me: [My Website](https://fewcompany.com/)
 
 
 ## 🌐 Socials:
